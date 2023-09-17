@@ -1,16 +1,33 @@
-### Hi there 👋
+# Welcome to My GitHub Profile! 👋
 
-<!--
-**WaddahAzhary/WaddahAzhary** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Waddah Azhary, an IT professional with a background in Chemical and Instrumentation Engineering. Currently, I'm working in technical support and pursuing my studies at Athabasca University. I'm passionate about cloud and DevOps technologies, constantly exploring and learning in these exciting fields.
 
-Here are some ideas to get you started:
+## About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌍 Based in Alberta, Canada
+- 💼 IT analyst at AHS.
+- 🎓 Studying at Athabasca University.
+- 💻 Passionate about learning.
+
+
+
+## What I'm Currently Exploring
+
+- 🚀 Learning and experimenting with cloud technologies.
+- 🌱 Exploring DevOps practices for efficient software development.
+
+## My Interests
+
+- 🌟 Cloud Computing
+- 🌟 DevOps
+- 🌟 Automation
+
+
+## Get in Touch
+
+- 💼 LinkedIn: https://www.linkedin.com/in/waddah-a-996aaa199/
+
+
+## Fun Facts
+
+- 🎮 Hobbies: Camping and reading.
